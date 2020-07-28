@@ -22,6 +22,7 @@
 		F31FE602238FA6C000CC7658 /* Programmers_Level_1_Sum_Of_Two_Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F31FE601238FA6C000CC7658 /* Programmers_Level_1_Sum_Of_Two_Integer.swift */; };
 		F31FE604238FAA2700CC7658 /* Programmers_Level_1_Sort_String.swift in Sources */ = {isa = PBXBuildFile; fileRef = F31FE603238FAA2700CC7658 /* Programmers_Level_1_Sort_String.swift */; };
 		F31FE606238FAF8700CC7658 /* Programmers_Level_1_Count_Of_P_Y.swift in Sources */ = {isa = PBXBuildFile; fileRef = F31FE605238FAF8700CC7658 /* Programmers_Level_1_Count_Of_P_Y.swift */; };
+		F33A774624D05E28007866B2 /* HackerRank_Bon_Appetit.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33A774524D05E28007866B2 /* HackerRank_Bon_Appetit.swift */; };
 		F34B58572389588F0013E1F5 /* JSTester in Frameworks */ = {isa = PBXBuildFile; productRef = F34B58562389588F0013E1F5 /* JSTester */; };
 		F34B585A238964230013E1F5 /* Programmers_Level_1_String_Compression.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34B5859238964230013E1F5 /* Programmers_Level_1_String_Compression.swift */; };
 		F358532E23BB2A6A00DACCBF /* Programmers_Level_2_Pass_The_Bridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = F358532D23BB2A6A00DACCBF /* Programmers_Level_2_Pass_The_Bridge.swift */; };
@@ -110,6 +111,7 @@
 		F31FE601238FA6C000CC7658 /* Programmers_Level_1_Sum_Of_Two_Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_1_Sum_Of_Two_Integer.swift; sourceTree = "<group>"; };
 		F31FE603238FAA2700CC7658 /* Programmers_Level_1_Sort_String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_1_Sort_String.swift; sourceTree = "<group>"; };
 		F31FE605238FAF8700CC7658 /* Programmers_Level_1_Count_Of_P_Y.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_1_Count_Of_P_Y.swift; sourceTree = "<group>"; };
+		F33A774524D05E28007866B2 /* HackerRank_Bon_Appetit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerRank_Bon_Appetit.swift; sourceTree = "<group>"; };
 		F34B5859238964230013E1F5 /* Programmers_Level_1_String_Compression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_1_String_Compression.swift; sourceTree = "<group>"; };
 		F358532D23BB2A6A00DACCBF /* Programmers_Level_2_Pass_The_Bridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_2_Pass_The_Bridge.swift; sourceTree = "<group>"; };
 		F358EA7723BF8F9200BD6C8B /* Programmers_Level_2_Convert_Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_2_Convert_Parentheses.swift; sourceTree = "<group>"; };
@@ -283,6 +285,7 @@
 				F39184A024CF0AD9002F9BCF /* HackerRank_Birthday_Chocolate.swift */,
 				F391849E24CF0480002F9BCF /* HackerRank_Divisible_Sum_Pairs.swift */,
 				F391849C24CF0163002F9BCF /* HackerRank_Migratory_Birds.swift */,
+				F33A774524D05E28007866B2 /* HackerRank_Bon_Appetit.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -504,6 +507,7 @@
 				F30D57F223A39BFE00408AA5 /* Programmers_Level_1_Fail_Rate.swift in Sources */,
 				F39184A124CF0AD9002F9BCF /* HackerRank_Birthday_Chocolate.swift in Sources */,
 				F31FE604238FAA2700CC7658 /* Programmers_Level_1_Sort_String.swift in Sources */,
+				F33A774624D05E28007866B2 /* HackerRank_Bon_Appetit.swift in Sources */,
 				F391849424CDACCB002F9BCF /* HackerRank_Time_Conversion.swift in Sources */,
 				F31FE5F6238D463A00CC7658 /* Programmers_Level_1_Mock_Exam.swift in Sources */,
 				F391849924CDBD9A002F9BCF /* HackerRank_Apple_And_Orange.swift in Sources */,
