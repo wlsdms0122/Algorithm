@@ -6,4 +6,4 @@
 //  Copyright © 2019 JSilver. All rights reserved.
 //
 
-HackerRank_Bon_Appetit.run()
+HackerRank_Sock_Merchant.run()
