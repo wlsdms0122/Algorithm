@@ -6,4 +6,4 @@
 //  Copyright © 2019 JSilver. All rights reserved.
 //
 
-HackerRank_Sock_Merchant.run()
+Toss_색상_코드_변환하기.run()
