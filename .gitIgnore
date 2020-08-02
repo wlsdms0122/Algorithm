@@ -24,3 +24,6 @@ DerivedData/
 
 # ETC
 *.entitlements
+
+# Private Problems
+Private/

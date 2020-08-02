@@ -26,7 +26,6 @@
 		F33A777724D19E65007866B2 /* HackerRank_Sock_Merchant.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33A777624D19E65007866B2 /* HackerRank_Sock_Merchant.swift */; };
 		F34B58572389588F0013E1F5 /* JSTester in Frameworks */ = {isa = PBXBuildFile; productRef = F34B58562389588F0013E1F5 /* JSTester */; };
 		F34B585A238964230013E1F5 /* Programmers_Level_1_String_Compression.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34B5859238964230013E1F5 /* Programmers_Level_1_String_Compression.swift */; };
-		F34CC56F24D2617200C58EC3 /* Toss_색상_코드_변환하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34CC56E24D2617200C58EC3 /* Toss_색상_코드_변환하기.swift */; };
 		F34CC57124D2F22A00C58EC3 /* HackerRank_Drawing_Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34CC57024D2F22A00C58EC3 /* HackerRank_Drawing_Book.swift */; };
 		F358532E23BB2A6A00DACCBF /* Programmers_Level_2_Pass_The_Bridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = F358532D23BB2A6A00DACCBF /* Programmers_Level_2_Pass_The_Bridge.swift */; };
 		F358EA7823BF8F9200BD6C8B /* Programmers_Level_2_Convert_Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = F358EA7723BF8F9200BD6C8B /* Programmers_Level_2_Convert_Parentheses.swift */; };
@@ -117,7 +116,6 @@
 		F33A774524D05E28007866B2 /* HackerRank_Bon_Appetit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerRank_Bon_Appetit.swift; sourceTree = "<group>"; };
 		F33A777624D19E65007866B2 /* HackerRank_Sock_Merchant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerRank_Sock_Merchant.swift; sourceTree = "<group>"; };
 		F34B5859238964230013E1F5 /* Programmers_Level_1_String_Compression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_1_String_Compression.swift; sourceTree = "<group>"; };
-		F34CC56E24D2617200C58EC3 /* Toss_색상_코드_변환하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Toss_색상_코드_변환하기.swift"; sourceTree = "<group>"; };
 		F34CC57024D2F22A00C58EC3 /* HackerRank_Drawing_Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerRank_Drawing_Book.swift; sourceTree = "<group>"; };
 		F358532D23BB2A6A00DACCBF /* Programmers_Level_2_Pass_The_Bridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_2_Pass_The_Bridge.swift; sourceTree = "<group>"; };
 		F358EA7723BF8F9200BD6C8B /* Programmers_Level_2_Convert_Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_2_Convert_Parentheses.swift; sourceTree = "<group>"; };
@@ -205,20 +203,10 @@
 		F34B5858238964080013E1F5 /* Problem */ = {
 			isa = PBXGroup;
 			children = (
-				F3B3CA1C23B8FAD300E9BF08 /* Test */,
-				F34CC56C24D2614600C58EC3 /* Toss */,
 				F37CA09F23A8734900A8990F /* Programmers */,
 				F39223D524C9C64C00666249 /* HackerRank */,
 			);
 			path = Problem;
-			sourceTree = "<group>";
-		};
-		F34CC56C24D2614600C58EC3 /* Toss */ = {
-			isa = PBXGroup;
-			children = (
-				F34CC56E24D2617200C58EC3 /* Toss_색상_코드_변환하기.swift */,
-			);
-			path = Toss;
 			sourceTree = "<group>";
 		};
 		F37CA09F23A8734900A8990F /* Programmers */ = {
@@ -327,13 +315,6 @@
 				F391849324CDACCB002F9BCF /* HackerRank_Time_Conversion.swift */,
 			);
 			path = Warmup;
-			sourceTree = "<group>";
-		};
-		F3B3CA1C23B8FAD300E9BF08 /* Test */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Test;
 			sourceTree = "<group>";
 		};
 		F3B568CB2389173800838401 = {
@@ -563,7 +544,6 @@
 				F30D57EC23A0E48D00408AA5 /* Programmers_Level_1_Distance_List.swift in Sources */,
 				F30D57F023A361EC00408AA5 /* Programmers_Level_1_Secret_Map.swift in Sources */,
 				F3C2D00A2394D76C004D2219 /* Programmers_Level_1_String_To_Int.swift in Sources */,
-				F34CC56F24D2617200C58EC3 /* Toss_색상_코드_변환하기.swift in Sources */,
 				F31FE602238FA6C000CC7658 /* Programmers_Level_1_Sum_Of_Two_Integer.swift in Sources */,
 				F3921CC223ADC3730050533A /* Measure.swift in Sources */,
 				F33A777724D19E65007866B2 /* HackerRank_Sock_Merchant.swift in Sources */,
