@@ -6,4 +6,4 @@
 //  Copyright © 2019 JSilver. All rights reserved.
 //
 
-Toss_앱_빌드하기.run()
+HackerRank_Electronics_Shop.run()
