@@ -35,6 +35,7 @@
 		F37CA0A523A88CFB00A8990F /* Programmers_Level_2_Tower.swift in Sources */ = {isa = PBXBuildFile; fileRef = F37CA0A423A88CFA00A8990F /* Programmers_Level_2_Tower.swift */; };
 		F38B793623C2FFB500CE2111 /* Programmers_Level_2_Joystick.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38B793523C2FFB500CE2111 /* Programmers_Level_2_Joystick.swift */; };
 		F38C7D5824DAD8DA001DEBCC /* HackerRank_Cats_And_A_Mouse.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38C7D5724DAD8DA001DEBCC /* HackerRank_Cats_And_A_Mouse.swift */; };
+		F38C7D5A24DADEA6001DEBCC /* HackerRank_Picking_Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38C7D5924DADEA6001DEBCC /* HackerRank_Picking_Numbers.swift */; };
 		F38C8BDE24D97F95001FAD04 /* HackerRank_Electronics_Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38C8BDD24D97F95001FAD04 /* HackerRank_Electronics_Shop.swift */; };
 		F391849024CDA7E9002F9BCF /* HackerRank_Mini_Max_Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = F391848F24CDA7E9002F9BCF /* HackerRank_Mini_Max_Sum.swift */; };
 		F391849224CDAB31002F9BCF /* HackerRank_Birthday_Cake_Candles.swift in Sources */ = {isa = PBXBuildFile; fileRef = F391849124CDAB31002F9BCF /* HackerRank_Birthday_Cake_Candles.swift */; };
@@ -127,6 +128,7 @@
 		F37CA0A423A88CFA00A8990F /* Programmers_Level_2_Tower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_2_Tower.swift; sourceTree = "<group>"; };
 		F38B793523C2FFB500CE2111 /* Programmers_Level_2_Joystick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmers_Level_2_Joystick.swift; sourceTree = "<group>"; };
 		F38C7D5724DAD8DA001DEBCC /* HackerRank_Cats_And_A_Mouse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerRank_Cats_And_A_Mouse.swift; sourceTree = "<group>"; };
+		F38C7D5924DADEA6001DEBCC /* HackerRank_Picking_Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerRank_Picking_Numbers.swift; sourceTree = "<group>"; };
 		F38C8BDD24D97F95001FAD04 /* HackerRank_Electronics_Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerRank_Electronics_Shop.swift; sourceTree = "<group>"; };
 		F391848F24CDA7E9002F9BCF /* HackerRank_Mini_Max_Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerRank_Mini_Max_Sum.swift; sourceTree = "<group>"; };
 		F391849124CDAB31002F9BCF /* HackerRank_Birthday_Cake_Candles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackerRank_Birthday_Cake_Candles.swift; sourceTree = "<group>"; };
@@ -297,6 +299,7 @@
 				F34CC57024D2F22A00C58EC3 /* HackerRank_Drawing_Book.swift */,
 				F38C8BDD24D97F95001FAD04 /* HackerRank_Electronics_Shop.swift */,
 				F38C7D5724DAD8DA001DEBCC /* HackerRank_Cats_And_A_Mouse.swift */,
+				F38C7D5924DADEA6001DEBCC /* HackerRank_Picking_Numbers.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -529,6 +532,7 @@
 				F391849724CDAE2B002F9BCF /* HackerRank_Grading_Students.swift in Sources */,
 				F391849024CDA7E9002F9BCF /* HackerRank_Mini_Max_Sum.swift in Sources */,
 				F3C392D1239A0EA700C71A77 /* Programmers_Level_1_Odd_Or_Even.swift in Sources */,
+				F38C7D5A24DADEA6001DEBCC /* HackerRank_Picking_Numbers.swift in Sources */,
 				F3DABEDC2396313100A28935 /* Programmers_Level_1_Sum_Of_Digits.swift in Sources */,
 				F38B793623C2FFB500CE2111 /* Programmers_Level_2_Joystick.swift in Sources */,
 				F31FE600238FA3DD00CC7658 /* Programmers_Level_1_Clean_Divide.swift in Sources */,

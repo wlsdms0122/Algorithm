@@ -6,4 +6,4 @@
 //  Copyright © 2019 JSilver. All rights reserved.
 //
 
-HackerRank_Cats_And_A_Mouse.run()
+HackerRank_Picking_Numbers.run()
