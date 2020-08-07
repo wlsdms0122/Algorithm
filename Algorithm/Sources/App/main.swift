@@ -6,4 +6,4 @@
 //  Copyright © 2019 JSilver. All rights reserved.
 //
 
-HackerRank_Picking_Numbers.run()
+HackerRank_The_Hurdle_Race.run()
