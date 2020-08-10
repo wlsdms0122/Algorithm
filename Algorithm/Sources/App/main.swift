@@ -6,4 +6,4 @@
 //  Copyright © 2019 JSilver. All rights reserved.
 //
 
-HackerRank_The_Hurdle_Race.run()
+HackerRank_Designer_PDF_Viewer.run()
