@@ -6,6 +6,7 @@
 //  Copyright © 2019 JSilver. All rights reserved.
 //
 
+@testable import Algorithm
 import XCTest
 
 class HeapTest: XCTestCase {
