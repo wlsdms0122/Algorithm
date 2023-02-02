@@ -1,6 +1,2 @@
-public struct Algorithm {
-    public private(set) var text = "Hello, World!"
 
-    public init() {
-    }
-}
+HackerRank_Compare_The_Triplets.run()
